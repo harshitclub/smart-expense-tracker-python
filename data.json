@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Smartphone",
+        "amount": 15000.0,
+        "category": "Mobile",
+        "date": "2026-04-05"
+    },
+    {
+        "title": "Smartphone",
+        "amount": 15000.0,
+        "category": "Mobile",
+        "date": "2026-04-04"
+    },
+    {
+        "title": "RCT",
+        "amount": 3000.0,
+        "category": "Health",
+        "date": "2026-04-10"
+    }
+]
