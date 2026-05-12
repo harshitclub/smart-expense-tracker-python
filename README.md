@@ -76,25 +76,6 @@ python main.py
 
 ---
 
-# 🎯 Learning Outcomes
-
-This project helps students learn:
-- Python
-- DSA Concepts
-- File Handling
-- JSON Storage
-- CLI Application Development
-- Modular Programming
-- Software Engineering Basics
-
----
-
-# 📸 Project Preview
-
-(Add screenshots here later)
-
----
-
 # 👨‍💻 Developed By
 
 Harshit Kumar
